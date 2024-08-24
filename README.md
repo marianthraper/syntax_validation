@@ -1,5 +1,5 @@
 # syntax_validation
-Syntax Validation of some R constructs using PLY tools in Python. AFLL Projects Ssem-3)
+Syntax Validation of some R constructs using PLY tools in Python. AFLL Project (Sem-3)
 # Custom Language Parser and Interpreter
 
 ## Project Overview
